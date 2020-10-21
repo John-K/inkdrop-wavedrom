@@ -1,0 +1,16 @@
+{
+  "name": "wavedrom",
+  "main": "./lib/index",
+  "version": "0.0.0",
+  "description": "Wavedrom waveform renderer for Inkdrop",
+  "keywords": ["wavedrom", "timing", "diagram", "digital", "waveform"],
+  "repository": "https://github.com/John-K/inkdrop-wavedrom",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.x"
+  },
+  "dependencies": {
+    "wavedrom": "2.6.8",
+    "json5": "2.1.3"
+  }
+}
