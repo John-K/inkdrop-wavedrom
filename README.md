@@ -1,4 +1,5 @@
 # Wavedrom renderer plugin for Inkdrop
+![](https://inkdrop-plugin-badge.vercel.app/api/version/wavedrom) ![](https://inkdrop-plugin-badge.vercel.app/api/downloads/wavedrom)
 
 A [Wavedrom](https://wavedrom.com/) renderer plugin for [Inkdrop](https://www.inkdrop.info/)
 
